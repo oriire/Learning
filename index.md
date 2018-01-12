@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+theme: jekyll-theme-cayman
+title: Welcome to oriire's 
+description: feel free to bookmark this page to keep an eye on my project
 
 You can use the [editor on GitHub](https://github.com/oriire/Learning/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
